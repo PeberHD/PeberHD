@@ -4,7 +4,7 @@
 
 - Name : PeberHD
 - Country: Denmark
-- Languages : Python, C#
+- Languages : Python, Lua
 - Love : Ilol
 - -Contact: PeberHD#1337
 
