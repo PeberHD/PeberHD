@@ -3,7 +3,7 @@
 -------------------------
 
 - Name : PeberHD
-- - Real name : Mads
+- Real name : Mads
 - Country: Denmark
 - Languages : Python, Lua
 - Love : Ilol
